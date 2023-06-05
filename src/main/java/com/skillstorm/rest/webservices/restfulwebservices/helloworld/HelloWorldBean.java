@@ -1,4 +1,4 @@
-package com.skillstorm.rest.webservices.restfulwebservices;
+package com.skillstorm.rest.webservices.restfulwebservices.helloworld;
 
 public class HelloWorldBean {
 
